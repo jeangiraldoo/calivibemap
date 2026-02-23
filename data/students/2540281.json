@@ -1,0 +1,10 @@
+{
+  "id": 10,
+  "name": "Jean Pierre Giraldo Osorio",
+  "lat": 3.465891358891042,
+  "lng": -76.49997092462915,
+  "photo": "https://avatars.githubusercontent.com/u/103008008?v=4",
+  "likes": ["Idiomas", "Leer", "Programar"],
+  "dislikes": ["Bulla", "Transnochar"],
+  "socialMedia": "@jeangiraldo"
+}
