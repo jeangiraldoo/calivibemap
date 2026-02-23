@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "name": "Santiago Valencia Aguiño",
+    "lat": 3.3951250202321224,
+    "lng": -76.54501793106364,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": ["Cholado", "React.js", "Natación"],
+    "dislikes": ["lentitud", "Ruido"],
+    "socialMedia": "@santi4914"
+}
+
