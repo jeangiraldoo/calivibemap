@@ -1,0 +1,11 @@
+{
+    "id": 4,
+    "name": "Alejandro Fernandez Herrera",
+    "lat": 3.3860274905869936,
+    "lng": -76.52888263158408,
+    "photo": "https://randomuser.me/api/portraits/men/75.jpg",
+    "likes": ["caminar", "cafe"],
+    "dislikes": ["Bugs", "lluvia"],
+    "socialMedia": "@alejandro_fernandez_herrera"
+}
+
